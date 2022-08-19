@@ -1,13 +1,17 @@
 # 🙋‍ 2022.2 - Módulo WEB - Turma 2 - Revirar
 
 ## 🔍 O problema:
-Captação de recursos financeiros e parceiros, tanto como voluntários que desejassem realizar atividades com o público atendido. 
+Tornar o Projeto Revirar conhecido em nossa Região, nas Redes Sociais e na Rede Sócio assistencial com o objetivo de atrair para a nossa causa:
+  - **Parceiros Financeiros:** Para aumentar o engajamento na captação de recursos;
+  - **Parceiros voluntários:** Em sua grande importância na ajudar complementar a equipe de atendimento; e
+  - **Informações sobre as localizações da População em Situação de Rua:** Entender onde a População em Situação de Rua marca presença, para que nossa equipe de Educadores saiba exatamente onde encontrá-los e realizar a abordagem sobre nosso projeto.
 
+ 
 ## 🎯 O objetivo:
-Aumentar a visibilidade do projeto, junto ao alcance da ONG Irmã Amélia para a arrecadação de voluntários e recursos. Além disso, o projeto em desenvolvimento visa facilitar o contato com doadores e voluntários com a instituição e promover mais informações sobre o Revirar.
+Desenvolvimento de Solução Web de fácil navegação apresentando o projeto, serviços oferecidos, indicativos de resultados, transparência da aplicação dos recursos, depoimentos dos atendidos e impacto social;
 
 ## 🧩 O público-alvo:
-Voluntários e doadores
+Pessoas atentas ao problema social da cidade.
 
 ## 💻 Desenvolvimento WEB:
 
