@@ -16,11 +16,11 @@ Pessoas atentas ao problema social da cidade.
 ## 💻 Desenvolvimento WEB:
 
 - Grupo 1 - re:Matter
-  - Link para acessar: 
+  - Link para acessar: não disponível.
   - Link do repositório: https://github.com/2022M2T2/re-Matter
 
 - Grupo 2 - DevPandas
-  - Link para acessar:
+  - Link para acessar: não disponível.
   - Link do repositório: https://github.com/2022M2T2/DevPandas
   
 - Grupo 3 - The Kindness Chain:
@@ -28,9 +28,9 @@ Pessoas atentas ao problema social da cidade.
   - Link do repositório: https://github.com/2022M2T2/The-Kindness-Chain
   
 - Grupo 4 - Nakata Uniwise:
-  - Link para acessar: 
+  - Link para acessar: não disponível.
   - Link do repositório: https://github.com/2022M2T2/Nakata-Uniwise
   
 - Grupo 5 - Change IT:
-  - Link para acessar: 
+  - Link para acessar: não disponível.
   - Link do repositório: https://github.com/2022M2T2/Change-IT
